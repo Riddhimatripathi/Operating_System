@@ -69,7 +69,7 @@ This builds the OS and launches it using QEMU.
 
 ---
 
-## 👨 Bootloader (Assembly)
+## Bootloader (Assembly)
 
 Initial 512 bytes contain:
 - CPU setup
